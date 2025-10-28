@@ -1,4 +1,7 @@
 <script lang="ts" setup>
+useHead({
+  title: "Dashboard",
+});
 const showDesktopWarning = ref(false);
 
 const checkScreenSize = () => {

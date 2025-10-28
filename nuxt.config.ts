@@ -8,8 +8,16 @@ export default defineNuxtConfig({
     public: {},
   },
   css: ["./app/assets/css/main.css"],
-  modules: ["@nuxt/ui"],
-
+  modules: ["@nuxt/ui", "nuxt-echarts"],
+  echarts: {
+    charts: ["LineChart", "BarChart"],
+    components: [
+      "GridComponent",
+      "TooltipComponent",
+      "TitleComponent",
+      "LegendComponent",
+    ],
+  },
   vite: {
     plugins: [tailwindcss()],
   },

@@ -77,7 +77,7 @@ const scrollToFooter = () => {
       </div>
     </div>
     <div
-      class="z-0 bg-[url(/images/home-background.png)] h-[calc(100vh-59px)] bg-no-repeat absolute bg-left-top right-0 left-0 pointer-events-none"
+      class="z-0 h-[calc(100vh-59px)] bg-no-repeat absolute bg-left-top right-0 left-0 pointer-events-none"
     />
     <!-- Lapor Kendala Modal -->
     <!-- <LaporKendala
