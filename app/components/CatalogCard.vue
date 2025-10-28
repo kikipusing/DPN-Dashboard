@@ -1,4 +1,3 @@
-<!-- components/CatalogCard.vue -->
 <template>
   <UCard :ui="{ 
     body: { padding: 'p-0' },
