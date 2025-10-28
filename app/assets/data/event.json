@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "categories": ["Berita dan Kegiatan"],
+    "title": "Kegiatan Penyusunan Kerangka Kerja Data Migrasi Internasional",
+    "date": "20 Mei 2025",
+    "image": "/images/event_1.png",
+    "link": "/publikasi/detail/cerita"
+  },
+  {
+    "id": 2,
+    "categories": ["Visualisasi Data"],
+    "title": "Jumlah WNI menurut Tujuan Menetap 2018-2024",
+    "date": "15 Mei 2025",
+    "image": "/images/event_2.png",
+    "link": "/publikasi/detail/ceirta"
+  },
+  {
+    "id": 3,
+    "categories": ["Tabel Dinamis"],
+    "title": "Jumlah Penempatan Pekerja Migran menurut Jenis Kelamin 2024",
+    "date": "10 Mei 2025",
+    "image": "/images/event_3.png",
+    "link": "/publikasi/detail/cerita"
+  }
+]

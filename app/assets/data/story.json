@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Migrasi dan Kesejahteraan: Mengukur Harapan dan Tantangan di Daerah Asal Pekerja Migran",
+    "date": null,
+    "image": "/images/landing_story_telling_1.png",
+    "link": "/publikasi/detail/cerita"
+  },
+  {
+    "id": 2,
+    "title": "Memupuk Masa Depan dari Jauh: Akses Finansial dan Kemandirian Ekonomi",
+    "date": "12 Mei 2025",
+    "image": "/images/landing_story_telling_2.png",
+    "link": "/publikasi/detail/cerita"
+  },
+  {
+    "id": 3,
+    "title": "Mengulas Semangat Purna Migran: Petani Muda Tunggangri",
+    "date": "12 Mei 2025",
+    "image": "/images/landing_story_telling_3.png",
+    "link": "/publikasi/detail/cerita"
+  },
+  {
+    "id": 4,
+    "title": "Migrasi untuk Pendidikan: Inspirasi Tanah Suci",
+    "date": "12 Mei 2025",
+    "image": "/images/landing_story_telling_4.png",
+    "link": "/publikasi/detail/cerita"
+  }
+]

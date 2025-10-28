@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "statistik demografi dan sosial",
+    "description": "domain yang berkaitan langsung dengan aktivitas subjek matter untuk menghasilkan data statistik demograsi dan sosial",
+    "main_subject_field": null,
+    "children": [
+      {
+        "id": 6,
+        "name": "kependudukan dan migrasi",
+        "description": "mencakup kegiatan statistik yang berkaitan dengan kependudukan dan demografi, topik-topik seperti demografi, statistik vital, struktur dan pertumbuhan populasi, proyeksi demografis, keluarga dan rumah tangga (pernikahan, perceraian, ukuran rumah tangga), migrasi, pengungsi dan pencari suaka. Tidak termasuk: penyebab kematian (kesehatan)",
+        "main_subject_field": 1
+      },
+      {
+        "id": 7,
+        "name": "ketenagakerjaan",
+        "description": "mencakup statistik yang berkaitan dengan angkatan kerja, pasar tenaga kerja, pekerja dan pengangguran; topik yang lebih terperinci termasuk populasi yang aktif secara ekonomi, kondisi tenaga kerja, kesehatan dan keselamatan di tempat kerja (kecelakaan di tempat kerja, cedera dan penyakit akibat kerja, masalah kesehatan terkait pekerjaan), waktu kerja dan kondisi kerja lainnya, pemogokan dan penutupan, lowongan pekerjaan, penciptaan lapangan kerja, penciptaan lapangan kerja . Tidak termasuk: pekerja migran (kependudukan dan migrasi); asuransi pengangguran dan tunjangan pengangguran (perlindungan sosial); keanggotaan serikat pekerja (aktivitas politik dan komunitas lainnya); pekerjaan yang tidak dibayar (penggunaan waktu); statistik pendapatan, upah dan gaji (biaya tenaga kerja); biaya tenaga kerja (biaya tenaga kerja)",
+        "main_subject_field": 1
+      },
+      {
+        "id": 8,
+        "name": "pendidikan",
+        "description": "mencakup partisipasi pendidikan, buta huruf, lembaga dan sistem pendidikan, sumber daya manusia dan keuangan yang diinvestasikan dalam pendidikan, pembelajaran seumur hidup, pelatihan kejuruan dan pembelajaran orang dewasa, dampak pendidikan, penilaian kinerja siswa, dll",
+        "main_subject_field": 1
+      },
+      {
+        "id": 9,
+        "name": "kesehatan",
+        "description": "mencakup statistik yang berkaitan dengan kesehatan dan mortalitas, termasuk topik seperti harapan hidup, status kesehatan, kesehatan dan keselamatan, faktor penentu kesehatan (termasuk gaya hidup, nutrisi, merokok, penyalahgunaan alkohol), sumber daya dan pengeluaran kesehatan, sistem perawatan kesehatan, morbiditas dan mortalitas (termasuk kematian bayi dan anak), perawatan di rumah sakit, penyebab penyakit dan kematian, penyakit khusus (misalnya AIDS), cacat tubuh, konsumsi dan penjualan obat-obatan, tenaga kesehatan, penggajian profesi kesehatan, status kesehatan lingkungan, ketidaksetaraan kesehatan, rekening kesehatan. Tidak termasuk: kesehatan dan keselamatan terkait pekerjaan (ketenagakerjaan); korban dari perilaku kriminal (peradilan dan kriminal); kecelakaan dan cedera lalu lintas (transportasi)",
+        "main_subject_field": 1
+      },
+      {
+        "id": 10,
+        "name": "pendapatan dan konsumsi",
+        "description": "berkaitan dengan statistik tentang pendapatan dan pengeluaran rumah tangga dari sudut pandang rumah tangga (semua jenis pendapatan dan pengeluaran), termasuk topik-topik seperti distribusi pendapatan, pendapatan dalam bentuk barang, transfer pendapatan yang diterima dan dibayar, pendapatan atau ukuran kemiskinan berbasis pengeluaran, perlindungan konsumen, pola konsumsi , barang konsumen dan barang tahan lama, kekayaan dan hutang rumah tangga. Tidak termasuk: skema perlindungan sosial terhadap berbagai risiko (perlindungan sosial); skema pajak (statistik keuangan pemerintah, fiskal dan sektor publik); kemiskinan dalam arti multidimensi (kondisi tempat tinggal, kemiskinan dan isu sosial lintas sektor); kondisi kehidupan (kondisi tempat tinggal, kemiskinan dan isu sosial lintas sektor); inklusi / pengecualian sosial (kondisi tempat tinggal, kemiskinan dan isu sosial lintas sektor)",
+        "main_subject_field": 1
+      },
+      {
+        "id": 11,
+        "name": "perlindungan sosial",
+        "description": "berkaitan dengan statistik tentang langkah-langkah untuk melindungi orang terhadap risiko pendapatan yang tidak memadai terkait dengan pengangguran, kesehatan yang buruk, ketidakabsahan, usia tua, tanggung jawab orang tua, atau pendapatan yang tidak memadai setelah kehilangan pasangan atau orang tua, dll., termasuk statistik penerima manfaat pensiun, skema jaminan sosial, pengeluaran perlindungan sosial, dll. Tidak termasuk: perusahaan asuransi sebagai pelaku ekonomi (perbankan, asuransi, statistik keuangan); dana pensiun sebagai pelaku di pasar keuangan (perbankan, asuransi, statistik keuangan)",
+        "main_subject_field": 1
+      },
+      {
+        "id": 12,
+        "name": "pemukiman dan perumahan",
+        "description": "mencakup kegiatan statistik yang berkaitan dengan perumahan, tempat tinggal dan pemukiman. Tidak termasuk: sewa (harga)",
+        "main_subject_field": 1
+      },
+      {
+        "id": 13,
+        "name": "peradilan dan kriminal",
+        "description": "aktivitas yang tergolong ke dalam kejahatan, hukuman, pengoperasian sistem peradilan pidana, keadilan, keselamatan, korban, tingkat pembersihan, populasi penjara, produksi obat terlarang, perdagangan dan penggunaan, dll",
+        "main_subject_field": 1
+      },
+      {
+        "id": 14,
+        "name": "kebudayaan",
+        "description": "statistik yang berhubungan dengan kegiatan budaya dalam masyarakat, seperti teater, bioskop, museum, perpustakaan, media massa, produksi buku, olahraga, dll., termasuk pengeluaran dan pembiayaan budaya",
+        "main_subject_field": 1
+      },
+      {
+        "id": 15,
+        "name": "aktivitas politik dan komunitas lainnya",
+        "description": "statistik tentang jumlah pemilih, partisipasi dalam kegiatan politik dan kegiatan masyarakat lainnya, keanggotaan serikat pekerja, dialog sosial, masyarakat sipil, modal sosial, dll",
+        "main_subject_field": 1
+      },
+      {
+        "id": 16,
+        "name": "penggunaan waktu",
+        "description": "statistik tentang penggunaan waktu oleh individu, seringkali terkait dengan keseimbangan kehidupan kerja (rekonsiliasi tanggung jawab keluarga dan pekerjaan berbayar); pekerjaan yang tidak dibayar. Tidak termasuk: waktu kerja (ketenagakerjaan)",
+        "main_subject_field": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "statistik ekonomi",
+    "description": "domain yang berkaitan langsung dengan aktivitas subjek matter untuk menghasilkan data statistik ekonomi",
+    "main_subject_field": null,
+    "children": [
+      {
+        "id": 17,
+        "name": "statistik makroekonomi",
+        "description": "semua kegiatan yang berhubungan dengan statistik ekonomi di tingkat makro, atau berbeda dari Akun Nasional, baik tahunan, triwulanan atau bulanan. Contohnya adalah basis data ekonomi makro yang menggabungkan akun nasional dan indikator ekonomi makro lainnya seperti Main Economic Indicators (OECD), Principal European Economic Indicators (Eurostat), dll; kecenderungan bisnis dan survei pendapat konsumen, pertumbuhan ekonomi, stabilitas dan penyesuaian struktural, indikator siklus, statistik untuk analisis siklus bisnis. Tidak termasuk: metodologi dan kerangka kerja akun nasional (laporan ekonomi); pengumpulan dan penyebaran akun nasional dan data produktivitas yang tidak terkait dengan statistik ekonomi makro lainnya (laporan ekonomi)",
+        "main_subject_field": 2
+      },
+      {
+        "id": 18,
+        "name": "neraca ekonomi",
+        "description": "mencakup kegiatan yang berkaitan dengan pada Neraca Nasional baik harga berlaku maupun harga konstan, berkaitan dengan topik-topik seperti penerapan System National Accounts 1993 (SNA 1993), pembaruan SNA 1993, European System of Accounts (ESA95), Gross Domestic Product (GDP), Gross National Income (GNI), ekonomi non-observasi dan ekonomi informal, pengukuran modal, tabel input-output, neraca, dll. Tidak termasuk: neraca ekonomi pertanian (pertanian, kehutanan, perikanan); akun satelit pariwisata (pariwisata); rincian rekening pemerintah umum (statistik keuangan pemerintah, fiskal dan sektor publik); akun keuangan (statistik keuangan pemerintah, fiskal dan sektor publik); statistik harga (harga); akun lingkungan (lingkungan hidup)",
+        "main_subject_field": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "statistik lingkungan hidup dan multi-domain",
+    "description": "domain yang berkaitan langsung dengan aktivitas subjek matter untuk menghasilkan data statistik lingkungan hidup dan multi-domain",
+    "main_subject_field": null,
+    "children": []
+  },
+  {
+    "id": 4,
+    "name": "metodologi pengumpulan data, pengolahan, diseminasi dan analisis",
+    "description": "domain yang tidak berkaitan langsung dengan output data, namun berkaitan dengan metodologi pengumpulan data, pengolahan, diseminasi dan analisis",
+    "main_subject_field": null,
+    "children": []
+  },
+  {
+    "id": 5,
+    "name": "isu strategis dan manajerial dari statistik resmi",
+    "description": "domain yang tidak berkaitan langsung dengan output data, namun berkaitan dengan isu strategis dan manajerial dari statistik resmi",
+    "main_subject_field": null,
+    "children": []
+  }
+]
