@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "project_id": 2,
+        "name": "Hero Section Utama",
+        "type": "hero-section",
+        "order": 1,
+        "is_active": true,
+        "configuration": {
+            "title": "Selamat Datang di SDMI",
+            "subtitle": "Sistem Data Migrasi Indonesia",
+            "background_image": "/images/hero-bg.jpg",
+            "button_text": "Jelajahi Data",
+            "button_link": "/data"
+        },
+        "created_at": "2024-01-15T08:00:00Z",
+        "updated_at": "2024-01-15T08:00:00Z"
+    },
+    {
+        "id": 2,
+        "project_id": 2,
+        "name": "Carousel Statistik",
+        "type": "carousel",
+        "order": 2,
+        "is_active": true,
+        "configuration": {
+            "autoplay": true,
+            "interval": 5000,
+            "items": [
+                {
+                    "title": "Data Migrasi 2023",
+                    "description": "Temukan insight terbaru tentang migrasi di Indonesia",
+                    "image": "/images/carousel-1.jpg"
+                }
+            ]
+        },
+        "created_at": "2024-01-15T08:30:00Z",
+        "updated_at": "2024-01-15T08:30:00Z"
+    },
+    {
+        "id": 3,
+        "project_id": 2,
+        "name": "Statistik Utama",
+        "type": "statistics",
+        "order": 3,
+        "is_active": true,
+        "configuration": {
+            "display_style": "cards",
+            "stats": [
+                {
+                    "label": "Total Migran",
+                    "value": "1,250,000",
+                    "icon": "ph:users-duotone"
+                }
+            ]
+        },
+        "created_at": "2024-01-15T09:00:00Z",
+        "updated_at": "2024-01-15T09:00:00Z"
+    }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "goal": "1",
+    "title": "Mengumpulkan dan memanfaatkan data yang akurat dan terpilah sebagai dasar kebijakan berbasis bukti",
+    "main_indicators": [
+      "Jumlah/proporsi migran internasional terhadap total populasi penduduk.",
+      "Apakah Pemerintah mempunyai mekanisme untuk memastikan bahwa kebijakan migrasi didasarkan pada data yang terpilah dengan tepat."
+    ],
+    "additional_indicators" : [
+      "Angka migrasi masuk internasional tahunan",
+      "Angka migrasi keluar internasional tahunan. Jumlah negara yang memiliki rencana statistik nasional yang didanai penuh dan sedang dilaksanakan, berdasarkan sumber pendanaan.",
+      "Jumlah negara yang memiliki undang-undang statistik nasional yang mematuhi Prinsip-Prinsip Dasar Statistik Resmi",
+      "Di luar sensus, apakah negara mengumpulkan dan pempublikasikan data migrasi secara reguler (misalnya triwulanan atau tahunan)."
+    ]
+  },
+
+  {
+    "goal":"2",
+    "title":"Meminimalkan faktor-faktor pendorong dan faktor struktural yang merugikan yang memaksa orang meninggalkan negara asal mereka.",
+    "main_indicators":[
+      "Tingkat pengangguran, berdasarkan jenis kelamin, usia dan penyandang disabilitas.",
+      "Apakah strategi migrasi nasional mengatasi migrasi yang terkait dengan degradasi lingkungan dan dampak buruk perubahan iklim."
+    ],
+    "additional_indicators":[
+      "Proporsi populasi yang dilindungi oleh landasan/sistem perlindungan sosial, berdasarkan jenis kelamin, anak-anak, pengangguran, lansia, penyandang disabilitas, wanita hamil, bayi baru lahir, korban kecelakaan kerja, serta masyarakat miskin dan rentan.", 
+      "Apakah Pemerintah mempunyai strategi pengurangan risiko bencana nasional dengan ketentuan khusus untuk mengatasi dampak bencana terhadap pengungsi.", 
+      "Tingkat penyelesaian (pendidikan dasar, pendidikan menengah pertama, pendidikan menengah atas).", "Ada atau tidaknya kerangka hukum untuk mendorong, menegakkan dan memantau kesetaraan dan non-diskriminasi berdasarkan jenis kelamin.", 
+      "Proporsi lapangan kerja informal dalam total lapangan kerja, berdasarkan sektor dan jenis kelamin.", 
+      "Proporsi kaum muda (usia 15–24 tahun) yang tidak mengenyam pendidikan, pekerjaan atau pelatihan.", 
+      "Tingkat kepatuhan nasional terhadap hak-hak pekerja (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran.", 
+      "Proporsi lahan yang terdegradasi terhadap total luas lahan.", 
+      "Proporsi laporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional.",
+      "Jumlah korban pembunuhan yang disengaja per 100.000 penduduk, berdasarkan jenis kelamin dan usia."
+    ]
+  },
+
+    {
+    "goal":"3",
+    "title":"Memberikan informasi yang akurat dan tepat waktu di semua tahap migrasi.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai informasi migrasi dan kampanye peningkatan kesadaran atau tidak."
+    ],
+    "additional_indicators":[
+      "Proporsi individu yang menggunakan Internet.",
+      "Apakah sistem komunikasi dapat menerima informasi mengenai perkembangan krisis dan cara mengakses bantuan atau tidak, mempertimbangkan kerentanan spesifik yang dihadapi para migran (misalnya, apakah mereka menyediakan informasi dalam berbagai bahasa, memberikan informasi mengenai proses atau informasi visa dan pemulangan) ditargetkan pada saluran media tertentu)."
+    ]
+  },
+
+  {
+    "goal":"4",
+    "title":"Memastikan semua migran memiliki bukti identitas legal dan dokumentasi yang memadai.",
+    "main_indicators":[
+      "Proporsi anak di bawah usia 5 tahun yang kelahirannya dicatatkan pada otoritas sipil, berdasarkan umur."
+    ],
+    "additional_indicators":[
+      "Kemungkinan bagi migran yang bertempat tinggal di suatu negara tanpa bukti identitas hukum untuk mengakses layanan pencatatan sipil. Kemungkinan bagi migran yang bertempat tinggal di suatu negara tanpa bukti identitas hukum untuk mengakses layanan pencatatan sipil."
+    ]
+  },
+
+  {
+    "goal":"5",
+    "title":"Meningkatkan ketersediaan dan fleksibilitas jalur migrasi reguler.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai kebijakan atau strategi nasional mengenai jalur migrasi reguler, termasuk migrasi tenaga kerja.",
+      "Apakah Pemerintah mempunyai langkah-langkah untuk membina kerja sama antar negara dan mendorong inklusi dan partisipasi pemangku kepentingan dalam kebijakan migrasi."
+    ],
+    "additional_indicators":[
+      "Apakah Pemerintah mempunyai perjanjian bilateral mengenai migrasi, termasuk migrasi tenaga kerja atau tidak.",
+      "Jumlah regularisasi tahunan.",
+      "Apakah Pemerintah memberikan izin tinggal sementara atau perlindungan sementara bagi mereka yang terpaksa mengungsi melintasi perbatasan internasional dan mereka yang tidak dapat kembali.",
+      "Cedera akibat kerja yang fatal dan non-fatal per 100.000 pekerja, berdasarkan jenis kelamin dan status migran.",
+      "Tingkat kepatuhan nasional terhadap hak-hak pekerja (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran.",
+      "Adanya program tertentu untuk mengelola imigrasi tenaga kerja (yaitu menyesuaikan pemberian visa berdasarkan permintaan pasar tenaga kerja) ke dalam suatu negara.",
+      "Apakah suatu negara mempunyai jenis visa yang berbeda untuk menarik keterampilan tenaga kerja tertentu atau tidak."
+    ]
+  },
+
+  {
+    "goal":"6",
+    "title":"Memfasilitasi rekrutmen yang adil dan beretika serta menjaga kondisi yang menjamin pekerjaan yang layak.",
+    "main_indicators":[
+      "Tingkat kepatuhan nasional terhadap hak-hak pekerja (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran.",
+      "Biaya rekrutmen ditanggung oleh karyawan sebagai proporsi pendapatan bulanan yang diperoleh di negara tujuan."
+    ],
+    "additional_indicators":[
+      "Tingkat pengangguran, berdasarkan jenis kelamin, usia dan penyandang disabilitas.",
+      "Proporsi lapangan kerja informal dalam total lapangan kerja, berdasarkan sektor dan jenis kelamin.",
+      "Proporsi kaum muda (usia 15–24 tahun) yang tidak mengenyam pendidikan, pekerjaan atau pelatihan.",
+      "Proporsi dan jumlah anak usia 5–17 tahun yang menjadi pekerja anak, berdasarkan jenis kelamin dan usia.",
+      "Cedera akibat kerja yang fatal dan non-fatal per 100.000 pekerja, berdasarkan jenis kelamin dan status migran.",
+      "Ada atau tidaknya kerangka hukum untuk mendorong, menegakkan dan memantau kesetaraan dan non-diskriminasi berdasarkan jenis kelamin."
+    ]
+  },
+
+  {
+    "goal":"7",
+    "title":"Mengatasi dan mengurangi kerentanan dalam migrasi.",
+    "main_indicators":[
+      "Apakah Pemerintah memberikan akses yang sama kepada warga non-nasional terhadap layanan, tunjangan dan hak kesejahteraan (terlepas dari status imigrasinya atau hanya bagi mereka yang memiliki status imigrasi sah)."
+    ],
+    "additional_indicators":[
+      "Tingkat kepatuhan nasional terhadap hak-hak pekerja (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran.",
+      "Proporsi lapangan kerja informal dalam total lapangan kerja, berdasarkan sektor dan jenis kelamin.",
+      "Proporsi anak-anak yang berpindah-pindah yang diberikan solusi berkelanjutan berdasarkan prosedur kepentingan terbaik.",
+      "Proporsi dan jumlah anak usia 5–17 tahun yang menjadi pekerja anak, berdasarkan jenis kelamin dan usia.",
+      "Jumlah negara dengan undang-undang dan peraturan yang menjamin akses penuh dan setara bagi perempuan dan laki-laki berusia 15 tahun ke atas terhadap layanan kesehatan seksual dan reproduksi, informasi dan pendidikan.",
+      "Jumlah korban perdagangan manusia per 100.000 penduduk, berdasarkan jenis kelamin, usia dan bentuk eksploitasi.",
+      "Jumlah orang yang meninggal atau hilang dalam proses migrasi menuju suatu tujuan internasional.",
+      "Ada atau tidaknya kerangka hukum untuk mendorong, menegakkan dan memantau kesetaraan dan non-diskriminasi berdasarkan jenis kelamin.",
+      "Proporsi laporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional.",
+      "Kemungkinan bagi migran yang bertempat tinggal di suatu negara tanpa bukti identitas hukum untuk mengakses layanan pencatatan sipil.",
+      "Adanya kerangka manajemen darurat dengan langkah-langkah khusus untuk memberikan bantuan kepada migran sebelum, selama dan pasca krisis di suatu negara.",
+      "Cedera akibat kerja yang fatal dan non-fatal per 100.000 pekerja, berdasarkan jenis kelamin dan status migran.",
+      "Angka kematian balita.",
+      "Prevalensi kekurangan gizi.",
+      "Jumlah regularisasi tahunan."
+    ]
+  },
+
+  {
+    "goal":"8",
+    "title":"Menyelamatkan nyawa dan melakukan upaya internasional yang terkoordinasi dalam menangani migran yang hilang.",
+    "main_indicators":[
+      "Jumlah orang yang meninggal atau hilang dalam proses migrasi menuju suatu tujuan internasional.",
+      "Apakah suatu negara mempunyai sistem, termasuk perjanjian/pengaturan kerja sama formal dengan negara lain, untuk melacak dan mengidentifikasi migran yang hilang di wilayah nasionalnya atau tidak."
+    ],
+    "additional_indicators":[
+      
+    ]
+  },
+
+  {
+    "goal":"9",
+    "title":"Memperkuat respon transnasional terhadap penyelundupan migran.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai strategi formal untuk mengatasi perdagangan manusia dan penyelundupan migran."
+    ],
+    "additional_indicators":[
+      "Apakah suatu negara mempunyai perjanjian/pengaturan kerja sama formal dengan negara lain untuk mencegah dan melawan penyelundupan migran."
+    ]
+  },
+
+  {
+    "goal":"10",
+    "title":"Mencegah, memerangi dan memberantas perdagangan orang dalam konteks migrasi internasional.",
+    "main_indicators":[
+      "Jumlah korban perdagangan manusia per 100.000 penduduk, berdasarkan jenis kelamin, usia dan bentuk eksploitasi."
+    ],
+    "additional_indicators":[
+      "Apakah Pemerintah mempunyai strategi formal untuk mengatasi perdagangan manusia dan penyelundupan migran.",
+      "Proporsi dan jumlah anak usia 5–17 tahun yang menjadi pekerja anak, berdasarkan jenis kelamin dan usia.",
+      "Biaya rekrutmen yang ditanggung pekerja sebagai proporsi pendapatan bulanan yang diperoleh di negara tujuan.",
+      "Apakah suatu negara secara teratur (misalnya setiap triwulan atau tahunan) mempublikasikan informasi mengenai kegiatan pemberantasan perdagangan orang.",
+      "Cedera akibat kerja yang fatal dan non-fatal per 100.000 pekerja, berdasarkan jenis kelamin dan status migran.",
+      "Tingkat kepatuhan nasional terhadap hak-hak buruh (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran."
+    ]
+  },
+
+  {
+    "goal":"11",
+    "title":"Pengelolaan perbatasan secara terpadu, aman dan terkoordinasi.",
+    "main_indicators":[
+      "Perkiraan jumlah orang yang ditahan karena memasuki suatu negara secara tidak teratur pada tahun tertentu."
+    ],
+    "additional_indicators":[
+      "Jumlah orang yang meninggal atau hilang dalam proses migrasi menuju suatu tujuan internasional.",
+      "Pelatihan khusus dan berkala bagi staf perbatasan (misalnya pelatihan khusus, serta aspek bahasa, gender, dan budaya).",
+      "Perkiraan jumlah tahunan individu yang datang secara tidak teratur.",
+      "Jumlah regularisasi tahunan."
+    ]
+  },
+
+  {
+    "goal":"12",
+    "title":"Memperkuat kepastian dan prediktabilitas dalam prosedur migrasi untuk penyaringan, penilaian dan rujukan yang tepat.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai informasi migrasi dan kampanye peningkatan kesadaran atau tidak.",
+      "Apakah suatu negara mempunyai peraturan dan regulasi terkait migrasi yang jelas dan transparan (misalnya, tersedia untuk umum, mudah untuk dikonsultasikan, mudah dipahami)."
+    ],
+    "additional_indicators":[
+      "Pelatihan khusus dan berkala bagi staf perbatasan (misalnya pelatihan khusus, serta aspek bahasa, gender, dan budaya).",
+      "Adanya sistem formal untuk mengajukan jenis visa tertentu sebelum kedatangan."
+    ]
+  },
+
+  {
+    "goal":"13",
+    "title":"Gunakan penahanan migrasi hanya sebagai upaya terakhir dan upayakan alternatif lain.",
+    "main_indicators":[
+      "Perkiraan jumlah orang yang ditahan karena memasuki suatu negara secara tidak teratur pada tahun tertentu.",
+      "Apakah suatu negara mempunyai kebijakan atau strategi untuk memastikan bahwa penahanan migran hanya digunakan sebagai upaya terakhir, dan mengupayakan alternatif non-penahanan selain penahanan (ATD)."
+    ],
+    "additional_indicators":[
+      "Apakah suatu negara mempunyai peraturan dan regulasi terkait migrasi yang jelas dan transparan (misalnya, tersedia untuk umum, mudah untuk dikonsultasikan, mudah dipahami).",
+      "Apakah Pemerintah mempunyai ketentuan untuk anak di bawah umur yang tidak didampingi atau anak-anak yang terpisah.",
+      "Apakah suatu negara mempunyai undang-undang atau kebijakan yang melarang penahanan imigrasi terhadap anak-anak."
+    ]
+  },
+
+  {
+    "goal":"14",
+    "title":"Meningkatkan perlindungan, bantuan, dan kerja sama konsuler sepanjang siklus migrasi.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai langkah-langkah khusus untuk memberikan bantuan kepada warga negara yang tinggal di luar negeri di negara-negara yang berada dalam situasi krisis atau pasca krisis."
+    ],
+    "additional_indicators":[
+      "Adanya lembaga pendampingan warga negara yang berada di luar negeri (kedutaan besar atau konsulat, atase ketenagakerjaan, kementerian/kantor diaspora)."
+    ]
+  },
+
+  {
+    "goal":"15",
+    "title":"Memberikan akses terhadap layanan dasar bagi para migran.",
+    "main_indicators":[
+      "Proporsi penduduk yang tinggal dalam rumah tangga yang memiliki akses terhadap layanan dasar."
+    ],
+    "additional_indicators":[
+      "Tingkat penyelesaian (pendidikan dasar, pendidikan menengah pertama, pendidikan menengah atas).",
+      "Angka kematian balita.",
+      "Apakah Pemerintah memberikan akses yang sama terhadap pendidikan publik kepada warga non-nasional (terlepas dari status imigrasi atau hanya bagi mereka yang memiliki status imigrasi sah).",
+      "Apakah Pemerintah memberikan akses yang sama kepada warga non-nasional terhadap layanan kesehatan esensial dan/atau darurat (terlepas dari status imigrasinya atau hanya bagi mereka yang memiliki status imigrasi sah)."
+    ]
+  },
+
+  {
+    "goal":"16",
+    "title":"Memberdayakan migran dan masyarakat untuk mewujudkan inklusi penuh dan kohesi sosial.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai kebijakan atau strategi nasional untuk mendorong inklusi atau integrasi imigran."
+    ],
+    "additional_indicators":[
+      "Tingkat pengangguran, berdasarkan jenis kelamin, usia dan penyandang disabilitas.",
+      "Tingkat penyelesaian (pendidikan dasar, pendidikan menengah pertama, pendidikan menengah atas).",
+      "Proporsi lapangan kerja informal dalam total lapangan kerja, berdasarkan sektor dan jenis kelamin.",
+      "Proporsi kaum muda (usia 15–24 tahun) yang tidak mengenyam pendidikan, pekerjaan atau pelatihan.",
+      "Proporsi pelaporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional.",
+      "Cedera akibat kerja yang fatal dan non-fatal per 100.000 pekerja, berdasarkan jenis kelamin dan status migran.",
+      "Tingkat kepatuhan nasional terhadap hak-hak pekerja (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran.",
+      "Apakah Pemerintah mempunyai mekanisme formal untuk melibatkan masyarakat sipil dan sektor swasta dalam perumusan dan pelaksanaan kebijakan migrasi.",
+      "Proporsi laporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional."
+    ]
+  },
+
+  {
+    "goal":"17",
+    "title":"Memberdayakan migran dan masyarakat untuk mewujudkan inklusi penuh dan kohesi sosial.",
+    "main_indicators":[
+      "Proporsi laporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional.",
+      "Apakah Pemerintah memberikan akses yang sama kepada warga non-nasional terhadap layanan, tunjangan dan hak kesejahteraan (terlepas dari status imigrasi atau hanya bagi mereka yang memiliki status imigrasi sah)."
+    ],
+    "additional_indicators":[
+      "Tingkat kepatuhan nasional terhadap hak-hak pekerja (kebebasan berserikat dan berunding bersama) berdasarkan sumber tekstual ILO dan peraturan nasional, berdasarkan jenis kelamin dan status migran.",
+      "Tingkat pengangguran, berdasarkan jenis kelamin, usia dan penyandang disabilitas.",
+      "Cedera akibat kerja yang fatal dan non-fatal per 100.000 pekerja, berdasarkan jenis kelamin dan status migran.",
+      "Proporsi lapangan kerja informal dalam total lapangan kerja, berdasarkan sektor dan jenis kelamin.",
+      "Ada atau tidaknya kerangka hukum untuk mendorong, menegakkan dan memantau kesetaraan dan non-diskriminasi berdasarkan jenis kelamin.",
+      "Apakah Pemerintah memiliki mekanisme formal untuk memastikan bahwa kebijakan migrasi responsif gender.",
+      "Apakah suatu negara mempunyai kebijakan atau strategi untuk memerangi kejahatan rasial, kekerasan, xenofobia, dan diskriminasi terhadap migran."
+    ]
+  },
+
+  {
+    "goal":"18",
+    "title":"Berinvestasi dalam pengembangan keterampilan dan memfasilitasi pengakuan timbal balik atas keterampilan, kualifikasi dan kompetensi.",
+    "main_indicators":[
+      "Apakah Pemerintah memfasilitasi pengakuan keterampilan dan kualifikasi yang diperoleh di luar negeri atau tidak."
+    ],
+    "additional_indicators":[
+      "Proporsi kaum muda (usia 15–24 tahun) yang tidak mengenyam pendidikan, pekerjaan atau pelatihan.",
+      "Proporsi penduduk dalam kelompok umur tertentu yang mencapai setidaknya tingkat kemahiran fungsional (a) kemahiran membaca dan (b) numerasi, berdasarkan jenis kelamin."
+    ]
+  },
+
+  {
+    "goal":"19",
+    "title":"Menciptakan kondisi bagi para migran dan diaspora untuk berkontribusi penuh terhadap pembangunan berkelanjutan di semua negara.",
+    "main_indicators":[
+      "Apakah suatu negara secara formal melibatkan anggota diaspora dan komunitas ekspatriat dalam penetapan agenda dan implementasi kebijakan pembangunan.",
+      "Adanya badan atau lembaga pemerintah khusus yang bertanggung jawab untuk memberlakukan kebijakan emigrasi dan diaspora (misalnya lembaga “warga negara di luar negeri” atau agen tenaga kerja di luar negeri)."    
+    ],
+    "additional_indicators":[
+      "Adanya program pemerintah untuk menarik investasi dari para emigran (yaitu investasi pada perumahan, perusahaan lokal, dll.).",
+      "Proporsi laporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional.",
+      "Apakah seluruh warga suatu negara dapat memilih dalam pemilu nasional jika mereka tinggal di negara lain atau tidak."
+    ]
+  },
+
+  {
+    "goal":"20",
+    "title":"Mempromosikan transfer pengiriman uang yang lebih cepat, aman dan murah serta mendorong inklusi keuangan bagi para migran.",
+    "main_indicators":[
+      "Biaya pengiriman uang sebagai proporsi dari jumlah yang dikirimkan.",
+      "Apakah suatu negara mempunyai program untuk mendorong inklusi keuangan bagi para migran dan keluarga mereka, khususnya ketika mereka adalah pengirim dan/atau penerima remitansi."
+    ],
+    "additional_indicators":[
+      "Volume pengiriman uang/remitansi (dalam dolar Amerika Serikat) sebagai proporsi terhadap total PDB.",
+      "Proporsi orang dewasa (15 tahun ke atas) yang memiliki rekening di bank atau lembaga keuangan lain atau pada penyedia layanan uang seluler."
+    ]
+  },
+
+  {
+    "goal":"21",
+    "title":"Bekerja sama dalam memfasilitasi kepulangan dan penerimaan kembali yang aman dan bermartabat, serta reintegrasi yang berkelanjutan.",
+    "main_indicators":[
+      "Adanya program pemerintah formal atau kebijakan khusus yang berfokus pada fasilitasi reintegrasi untuk mengembalikan warga negara."
+    ],
+    "additional_indicators":[
+      "Proporsi populasi yang dilindungi oleh landasan/sistem perlindungan sosial, berdasarkan jenis kelamin, anak-anak, pengangguran, lansia, penyandang disabilitas, wanita hamil, bayi baru lahir, korban kecelakaan kerja, serta masyarakat miskin dan rentan.",
+      "Proporsi laporan penduduk yang secara pribadi merasa didiskriminasi atau dilecehkan dalam 12 bulan terakhir atas dasar diskriminasi yang dilarang berdasarkan hukum hak asasi manusia internasional.",
+      "Proporsi pengungsi yang kembali dengan dokumentasi dan kredensial yang diakui secara hukum."
+    ]
+  },
+
+  {
+    "goal":"22",
+    "title":"Menetapkan mekanisme untuk portabilitas hak jaminan sosial dan manfaat yang diperoleh.",
+    "main_indicators":[
+      "Apakah Pemerintah menyediakan akses yang sama terhadap jaminan sosial untuk WNA (terlepas dari status imigrasinya atau hanya bagi mereka yang memiliki status imigrasi sah)."
+    ],
+    "additional_indicators":[
+      "Proporsi populasi yang dilindungi oleh landasan/sistem perlindungan sosial, berdasarkan jenis kelamin, anak-anak, pengangguran, lansia, penyandang disabilitas, wanita hamil, bayi baru lahir, korban kecelakaan kerja, serta masyarakat miskin dan rentan.",
+      "Apakah Pemerintah memfasilitasi portabilitas manfaat jaminan sosial atau tidak dan mendorong inklusi dan partisipasi pemangku kepentingan dalam kebijakan migrasi."
+    ]
+  },
+
+  {
+    "goal":"23",
+    "title":"Menguatkan Kerjasama Internasional Dan Kemitraan Global Untuk Migrasi Yang Aman, Teratur, Dan Berkala.",
+    "main_indicators":[
+      "Apakah Pemerintah mempunyai langkah-langkah untuk membina kerja sama antar negara dan mendorong inklusi dan partisipasi pemangku kepentingan dalam kebijakan migrasi."
+    ],
+    "additional_indicators":[
+      "Jumlah negara yang memiliki mekanisme untuk meningkatkan koherensi kebijakan pembangunan berkelanjutan.",
+      "Apakah Pemerintah mempunyai perjanjian bilateral mengenai migrasi, termasuk migrasi tenaga kerja atau tidak.",
+      "Ada atau tidaknya pengaturan mobilitas intra-regional formal yang telah dicapai sebagai hasil dari proses konsultasi regional resmi (RCP) dan/atau forum konsultasi antarregional yang diikuti oleh suatu negara."
+    ]
+  }
+]

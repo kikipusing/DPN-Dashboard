@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "BPS",
+    "image": "/images/logo/bps.png",
+    "link": "/publikasi/detail/cerita"
+  },
+  {
+    "id": 2,
+    "name": "Kemenlu",
+    "image": "/images/logo/kemenlu.png",
+    "link": "/publikasi/detail/cerita"
+  },
+  {
+    "id": 3,
+    "name": "BP2MI",
+    "image": "/images/logo/bp2mi.png",
+    "link": "/publikasi/detail/cerita"
+  }
+]

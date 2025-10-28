@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Usulan Rancangan Cetak Biru dan Peta Jalan Sinergi Data Migrasi Internasional 2023-2029",
+        "date": "28 Mei 2025",
+        "image": "/images/landing_publication_1.png",
+        "link": "/publikasi/detail/cerita"
+    },
+    {
+        "id": 2,
+        "title": "Kajian Pengukuran Indikator Tujuan Pembangunan Berkelanjutan 10.7.1 tentang Biaya Rekrutmen Pekerja Migran",
+        "date": "18 Desember 2024",
+        "image": "/images/landing_publication_2.png",
+        "link": "/publikasi/detail/ceirta"
+    },
+    {
+        "id": 3,
+        "title": "Kajian Migrasi Internasional (hasil SP2010 dan SUPAS2015)",
+        "date": "14 Desember 2018",
+        "image": "/images/landing_publication_3.png",
+        "link": "/publikasi/detail/cerita"
+    }
+]
