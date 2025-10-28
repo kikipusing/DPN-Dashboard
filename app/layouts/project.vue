@@ -47,7 +47,7 @@ onUnmounted(() => {
   <!-- Konten website normal -->
   <div v-else>
     <HomeHeader />
-    <main class="min-h-screen flex flex-col z-100 mx-[100px]">
+    <main class="min-h-screen flex flex-col z-100 mx-[100px] pt-[72px]">
       <slot />
     </main>
     <DefaultFooter />
