@@ -5,18 +5,18 @@
         </h1>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <SubjectCatalogCard
-                v-for="(subjects, subcat) in groupedSubjects"
-                :key="subcat"
-                :subcat="subcat"
-                :subjects="subjects"
+            <CatalogCard1
+                :subjects="subjectsSosial"
+                @click="navigateToDetail"
             />
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <CatalogCard1 @click="navigateToDetail" />
-            <CatalogCard2 @click="navigateToDetail" />
-            <CatalogCard3 @click="navigateToDetail" />
+            <CatalogCard2
+                :subjects="subjectsEkonomi"
+                @click="navigateToDetail"
+            />
+            <CatalogCard3
+                :subjects="subjectsPertanian"
+                @click="navigateToDetail"
+            />
         </div>
     </div>
 </template>
@@ -58,6 +58,19 @@ onMounted(async () => {
         );
     }
 });
+
+const subjectsSosial = computed(() =>
+    Object.values(groupedSubjects.value["Sosial dan Kependudukan"] ?? [])
+);
+
+const subjectsEkonomi = computed(() =>
+    Object.values(groupedSubjects.value["Ekonomi dan Perdagangan"] ?? [])
+);
+
+const subjectsPertanian = computed(() =>
+    Object.values(groupedSubjects.value["Pertanian dan Pertambangan"] ?? [])
+);
+
 const navigateToDetail = (slug: string) => {
     navigateTo(`/dashboard/${slug}`);
     console.log(`Navigasi ke detail ${slug}`);
