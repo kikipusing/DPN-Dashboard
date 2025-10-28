@@ -42,7 +42,7 @@ const scrollToFooter = () => {
           <img src="/images/bps_logo.svg" class="w-[36px] h-[36px]" />
         </div>
         <div class="leading-[22px]">
-          <div class="uppercase font-bold text-[20px]">PORRALLL</div>
+          <div class="uppercase font-bold text-[20px]">DASHBOARD</div>
           <div class="font-medium text-[16px]">DEWAN PERTAHANAN NEGARA</div>
         </div>
       </div>
