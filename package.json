@@ -1,5 +1,5 @@
 {
-  "name": "DPN-DASHBOARD",
+  "name": "dpn-dashboard",
   "type": "module",
   "private": true,
   "scripts": {
