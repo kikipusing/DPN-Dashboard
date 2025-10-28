@@ -12,6 +12,12 @@
                 :subjects="subjects"
             />
         </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <CatalogCard1 @click="navigateToDetail" />
+            <CatalogCard2 @click="navigateToDetail" />
+            <CatalogCard3 @click="navigateToDetail" />
+        </div>
     </div>
 </template>
 
@@ -52,4 +58,8 @@ onMounted(async () => {
         );
     }
 });
+const navigateToDetail = (slug: string) => {
+    navigateTo(`/dashboard/${slug}`);
+    console.log(`Navigasi ke detail ${slug}`);
+};
 </script>

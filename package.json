@@ -1,5 +1,5 @@
 {
-  "name": "DPN-DASHBOARD",
+  "name": "dpn-dashboard",
   "type": "module",
   "private": true,
   "scripts": {
@@ -18,8 +18,9 @@
     "vue-router": "^4.6.3"
   },
   "devDependencies": {
-    "@types/node": "^24.9.1",
     "@nuxtjs/tailwindcss": "^6.14.0",
-    "@tailwindcss/postcss": "^4.1.16"
+    "@tailwindcss/postcss": "^4.1.16",
+    "@types/node": "^24.9.1",
+    "nuxt-echarts": "^1.0.1"
   }
 }
